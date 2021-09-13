@@ -5,7 +5,8 @@
 
 ### Lecture 
 Mondays from 2:00pm-3:40pm
-SILV_520 (Silver Center for Arts & Science, 100 Washington Square East, room 520)
+SILV_520 (Silver Center for Arts & Science, 
+100 Washington Square East, room 520)
 
 ### Lab (required for all students)
 DS-GA 1018.002 Lab (cap = 40) 
